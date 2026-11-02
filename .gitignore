@@ -1,0 +1,5 @@
+# Generated reports. Sample-Output/ holds the committed example.
+Reports/*
+!Reports/.gitkeep
+__pycache__/
+*.pyc
