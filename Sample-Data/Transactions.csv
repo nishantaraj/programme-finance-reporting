@@ -1,0 +1,19 @@
+txn_id,date,programme_code,type,description,currency,amount_minor
+T001,2026-08-20,CMP-NRTH-LEAD-2609,fee_received,Advance fees batch 1,INR,4500000
+T002,2026-09-01,CMP-NRTH-LEAD-2609,fee_received,Advance fees batch 2,SGD,150000
+T003,2026-09-20,CMP-NRTH-LEAD-2609,direct_cost,Venue and meals,SGD,90000
+T004,2026-09-22,CMP-NRTH-LEAD-2609,direct_cost,Mentor honoraria,USD,30000
+T005,2026-09-10,FEL-DEMO-DATA-2610,fee_received,Advance fees batch 1,USD,200000
+T006,2026-10-10,FEL-DEMO-DATA-2610,fee_received,Advance fees batch 2,INR,8000000
+T007,2026-10-15,FEL-DEMO-DATA-2610,direct_cost,Platform licences,SGD,25000
+T008,2026-11-03,FEL-DEMO-DATA-2610,direct_cost,Guest speaker,USD,20000
+T009,2026-10-05,CMT-RVRS-SAT-2611,fee_received,Advance fees,SGD,120000
+T010,2026-11-05,CMT-RVRS-SAT-2611,direct_cost,Prizes,SGD,40000
+T011,2026-11-12,CMT-RVRS-SAT-2611,direct_cost,Invigilation,INR,1500000
+T012,2026-12-01,CMP-NRTH-LEAD-2701,fee_received,Advance fees,SGD,100000
+T013,2026-09-30,OVH,overhead,Tools and subscriptions,SGD,60000
+T014,2026-10-31,OVH,overhead,Accounting and compliance,SGD,40000
+T015,2026-11-10,OVH,overhead,Cloud hosting,USD,10000
+T016,2026-11-08,,direct_cost,Travel (code missing),SGD,15000
+T017,2026-11-09,CMP-ZZZZ-TEST-2610,direct_cost,Code not in register,SGD,22000
+T018,2026-11-11,CMT-RVRS-SAT-2611,direct_cost,Printing abroad,AED,50000
